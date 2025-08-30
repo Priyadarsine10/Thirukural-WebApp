@@ -111,10 +111,8 @@ Mobile app version with offline access
 Special thanks to Prof. Dr. Santhi B for guidance and feedback. Gratitude to open-source contributors of IndicTrans2, Aksharamukha, and Streamlit for enabling Tamil NLP and web app development.
 
 **👨‍💻 Team Members**
+
 Priyadarsine.GN
-
 Nandhana.S
-
 Harikumar.RNB
-
 Prakash.P
